@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
 import Headpart from './components/Headpart';
 import Services from './components/Services';
 import Pricing from './components/Pricing';
@@ -17,6 +18,7 @@ import "./components/assets/css/LineIcons.css";
 function App() {
   return (
     <div >
+      <Navbar/>
       <Headpart/>
       <Services/>
       <Pricing/>
