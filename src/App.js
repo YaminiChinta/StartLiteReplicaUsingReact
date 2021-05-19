@@ -1,23 +1,29 @@
 import logo from './logo.svg';
 import './App.css';
+import Headpart from './components/Headpart';
+import Services from './components/Services';
+import Pricing from './components/Pricing';
+import Calltoaction from './components/Calltoaction';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+import Updown from './components/Updown';
 
+import "./components/assets/css/bootstrap.min.css";
+import "./components/assets/css/default.css";
+import "./components/assets/css/magnific-popup.css";
+import "./components/assets/css/style.css";
+import "./components/assets/css/style.css.map";
+import "./components/assets/css/LineIcons.css";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+      <Headpart/>
+      <Services/>
+      <Pricing/>
+      <Calltoaction/>
+      <Contact/>
+      <Footer/>
+      <Updown/>
     </div>
   );
 }
