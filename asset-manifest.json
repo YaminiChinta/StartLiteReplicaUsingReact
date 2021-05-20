@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/StartLiteReplicaUsingReact/static/css/main.246e0c2f.chunk.css",
-    "main.js": "/StartLiteReplicaUsingReact/static/js/main.0042aa27.chunk.js",
-    "main.js.map": "/StartLiteReplicaUsingReact/static/js/main.0042aa27.chunk.js.map",
-    "runtime-main.js": "/StartLiteReplicaUsingReact/static/js/runtime-main.4b232f20.js",
-    "runtime-main.js.map": "/StartLiteReplicaUsingReact/static/js/runtime-main.4b232f20.js.map",
-    "static/js/2.ebaf6c35.chunk.js": "/StartLiteReplicaUsingReact/static/js/2.ebaf6c35.chunk.js",
-    "static/js/2.ebaf6c35.chunk.js.map": "/StartLiteReplicaUsingReact/static/js/2.ebaf6c35.chunk.js.map",
-    "static/js/3.08f6e613.chunk.js": "/StartLiteReplicaUsingReact/static/js/3.08f6e613.chunk.js",
-    "static/js/3.08f6e613.chunk.js.map": "/StartLiteReplicaUsingReact/static/js/3.08f6e613.chunk.js.map",
+    "main.js": "/StartLiteReplicaUsingReact/static/js/main.3cdbda51.chunk.js",
+    "main.js.map": "/StartLiteReplicaUsingReact/static/js/main.3cdbda51.chunk.js.map",
+    "runtime-main.js": "/StartLiteReplicaUsingReact/static/js/runtime-main.8c48c4e0.js",
+    "runtime-main.js.map": "/StartLiteReplicaUsingReact/static/js/runtime-main.8c48c4e0.js.map",
+    "static/js/2.15b20088.chunk.js": "/StartLiteReplicaUsingReact/static/js/2.15b20088.chunk.js",
+    "static/js/2.15b20088.chunk.js.map": "/StartLiteReplicaUsingReact/static/js/2.15b20088.chunk.js.map",
+    "static/js/3.ccba9d53.chunk.js": "/StartLiteReplicaUsingReact/static/js/3.ccba9d53.chunk.js",
+    "static/js/3.ccba9d53.chunk.js.map": "/StartLiteReplicaUsingReact/static/js/3.ccba9d53.chunk.js.map",
     "index.html": "/StartLiteReplicaUsingReact/index.html",
     "static/css/main.246e0c2f.chunk.css.map": "/StartLiteReplicaUsingReact/static/css/main.246e0c2f.chunk.css.map",
-    "static/js/2.ebaf6c35.chunk.js.LICENSE.txt": "/StartLiteReplicaUsingReact/static/js/2.ebaf6c35.chunk.js.LICENSE.txt",
+    "static/js/2.15b20088.chunk.js.LICENSE.txt": "/StartLiteReplicaUsingReact/static/js/2.15b20088.chunk.js.LICENSE.txt",
     "static/media/LineIcons.css": "/StartLiteReplicaUsingReact/static/media/LineIcons.fb16b8b0.ttf",
+    "static/media/header-shape.1c06358d.svg": "/StartLiteReplicaUsingReact/static/media/header-shape.1c06358d.svg",
     "static/media/logo.6ce24c58.svg": "/StartLiteReplicaUsingReact/static/media/logo.6ce24c58.svg",
     "static/media/style.css.7bb034be.map": "/StartLiteReplicaUsingReact/static/media/style.css.7bb034be.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b232f20.js",
-    "static/js/2.ebaf6c35.chunk.js",
+    "static/js/runtime-main.8c48c4e0.js",
+    "static/js/2.15b20088.chunk.js",
     "static/css/main.246e0c2f.chunk.css",
-    "static/js/main.0042aa27.chunk.js"
+    "static/js/main.3cdbda51.chunk.js"
   ]
 }
